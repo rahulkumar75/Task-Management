@@ -34,8 +34,8 @@ Database: MongoDB
 
 # Installation
 Prerequisites
-Node.js
-MongoDB
+* Node.js
+* MongoDB
 
 # Steps
 1. Clone the Repository
@@ -114,7 +114,7 @@ Task Categories: Allow users to categorize tasks.
 Task Prioritization: Add priority levels to tasks.
 
 # Contributors
-Your Name: Rahul Kumar
+Name: Rahul Kumar
 Feel free to reach out to me at rahulkumarx333@gmail.com.com for any questions or contributions.
 
 
