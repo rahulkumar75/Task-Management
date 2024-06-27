@@ -40,14 +40,13 @@ Prerequisites
 # Steps
 1. Clone the Repository
 git clone https://github.com/rahulkumar75/Task-Management.git
-cd Task-Management
+  cd Task-Management
 
 2. Install Dependencies
-
-cd BackEnd
-npm install
-cd ../Frontend
-npm install
+  cd BackEnd
+  npm install
+  cd ../Frontend
+  npm install
 
 3. Configure Environment Variables
 Create a .env file in the server directory and add your MongoDB connection string and other environment variables.
