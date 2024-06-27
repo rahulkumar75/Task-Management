@@ -38,8 +38,7 @@ Prerequisites
 * MongoDB
 
 # Steps
-1. Clone the Repository
-git clone https://github.com/rahulkumar75/Task-Management.git
+1. Clone the Repository https://github.com/rahulkumar75/Task-Management.git
 * cd Task-Management
 
 2. Install Dependencies
@@ -61,20 +60,21 @@ cd ../Frontend
 npm start
 
 # Usage
-* Access the Application
-	- Open your web browser and navigate to http://localhost:1234.
-1.Create a Task
+1. Access the Application
+* Open your web browser and navigate to http://localhost:1234.
+
+2.Create a Task
 * Click on the "Add Task" button.
 * Fill in the task details and click "Save".
 
-2.View Tasks
+3.View Tasks
 * The homepage will list all the tasks.
 
-3.Update a Task
+4.Update a Task
 * Click on a task to view its details.
 * Click on the "Edit" button, update the details, and click "Save".
 
-4.Delete a Task
+5.Delete a Task
 * Click on a task to view its details.
 * Click on the "Delete" button.
 
