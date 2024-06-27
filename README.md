@@ -86,10 +86,10 @@ Click on the "Delete" button.
 * DELETE /tasks/: Delete a task by ID.
 
 # Front-End Components
-App: Main component that sets up routing.
-TaskList: Displays a list of tasks.
-TaskDetail: Displays details of a selected task.
-TaskForm: Form for creating or editing a task.
+* App: Main component that sets up routing.
+* TaskList: Displays a list of tasks.
+* TaskDetail: Displays details of a selected task.
+* TaskForm: Form for creating or editing a task.
 
 # Database Schema
 * Task Collection
