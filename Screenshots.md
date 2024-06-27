@@ -7,7 +7,11 @@
 # Task List
 ![Task Lists Page](https://github.com/rahulkumar75/Task-Management/assets/95310768/29a74c0b-0d90-4cfa-98d3-b132e90b9189)
 
-# Showing Description, Update Information, Delete
+# User Can
+* View Description
+* Update Information
+* Delete Task
+* Mark Completion
 ![Showing Discription](https://github.com/rahulkumar75/Task-Management/assets/95310768/dfd69a9b-d2d6-4095-8c89-c601d574cba4)
 
 # Task Completion Status
