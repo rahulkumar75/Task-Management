@@ -1,4 +1,4 @@
-# Task Management Application Documentation
+# Task Management Application
 
 # Table of Contents
   1. Introduction
