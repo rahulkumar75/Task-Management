@@ -43,18 +43,18 @@ git clone https://github.com/rahulkumar75/Task-Management.git
 * cd Task-Management
 
 2. Install Dependencies
-  * cd BackEnd
-    - npm install
-  * cd ../Frontend
-    - npm install
+* cd BackEnd
+- npm install
+* cd ../Frontend
+- npm install
 
 3. Configure Environment Variables
- * Create a .env file in the server directory and add your MongoDB connection string and other environment variables.
+* Create a .env file in the server directory and add your MongoDB connection string and other environment variables.
 
 4. Run the Application
 * Start the back-end server:
-cd BackEnd
-npm start
+- cd BackEnd
+- npm start
 
 * Start the front-end application:
 cd ../Frontend
@@ -79,25 +79,20 @@ Click on a task to view its details.
 Click on the "Delete" button.
 
 # API Endpoints
-GET /tasks: Retrieve a list of all tasks.
-GET /tasks/
-: Retrieve a specific task by ID.
-POST /tasks: Create a new task.
-PUT /tasks/
-: Update an existing task by ID.
-DELETE /tasks/
-: Delete a task by ID.
+* GET /tasks: Retrieve a list of all tasks.
+* GET /tasks/: Retrieve a specific task by ID.
+* POST /tasks: Create a new task.
+* PUT /tasks/: Update an existing task by ID.
+* DELETE /tasks/: Delete a task by ID.
 
-Front-End Components
+# Front-End Components
 App: Main component that sets up routing.
 TaskList: Displays a list of tasks.
 TaskDetail: Displays details of a selected task.
 TaskForm: Form for creating or editing a task.
 
 # Database Schema
-Task Collection
-json
-Copy code
+* Task Collection
 {
   "_id": "ObjectId",
   “createdAt”: “Date”,
