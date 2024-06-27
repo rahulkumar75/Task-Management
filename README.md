@@ -103,9 +103,9 @@ Click on the "Delete" button.
 }
 
 # Future Enhancements
-User Authentication: Implement user registration and login.
-Task Categories: Allow users to categorize tasks.
-Task Prioritization: Add priority levels to tasks.
+* User Authentication: Implement user registration and login.
+* Task Categories: Allow users to categorize tasks.
+* Task Prioritization: Add priority levels to tasks.
 
 # Contributors
 Name: Rahul Kumar
