@@ -61,22 +61,22 @@ cd ../Frontend
 npm start
 
 # Usage
-Access the Application
-Open your web browser and navigate to http://localhost:1234.
-Create a Task
-Click on the "Add Task" button.
-Fill in the task details and click "Save".
+* Access the Application
+	- Open your web browser and navigate to http://localhost:1234.
+1.Create a Task
+* Click on the "Add Task" button.
+* Fill in the task details and click "Save".
 
-View Tasks
-The homepage will list all the tasks.
+2.View Tasks
+* The homepage will list all the tasks.
 
-Update a Task
-Click on a task to view its details.
-Click on the "Edit" button, update the details, and click "Save".
+3.Update a Task
+* Click on a task to view its details.
+* Click on the "Edit" button, update the details, and click "Save".
 
-Delete a Task
-Click on a task to view its details.
-Click on the "Delete" button.
+4.Delete a Task
+* Click on a task to view its details.
+* Click on the "Delete" button.
 
 # API Endpoints
 * GET /tasks: Retrieve a list of all tasks.
